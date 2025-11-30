@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tubes_uts
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# TUGAS-UTS-PEMROGRAMAN-PERANGKAT-BERGERAK
+Aplikasi Katalog Produk Sport Active Life
+>>>>>>> 99656404602e66cd650b87a0bde4a4ca74ba6614
