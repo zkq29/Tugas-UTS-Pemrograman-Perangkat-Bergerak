@@ -8,8 +8,8 @@ Aplikasi Katalog Produk Sport (Active Life)
 *Mata Kuliah* : Pemrograman Perangkat Bergerak
 *Dosen Pengampu* :  1. Fajar Winata S.Kom., M.T.
                     2. Rizky Kharisma N. E. P. S.Tr.Kom., M.T. 
-*Link GitHub*: 
-*Email*: zakqiramadhan29@gmail.com
+*Link GitHub* : https://github.com/zkq29/Tugas-UTS-Pemrograman-Perangkat-Bergerak.git
+*Email* : zakqiramadhan29@gmail.com
 
 # DESKRIPSI APLIKASI
 Katalog Produk Sport (Active Life) adalah aplikasi mobile berbasis Flutter yang menampilkan katalog produk olahraga (sepatu, jersey, aksesoris) dengan fitur keranjang belanja dan state management menggunakan Provider.
@@ -34,7 +34,7 @@ Implementasi 5 jenis layout (Dasar, Multi-Child, Kompleks, Scrollable, Responsif
 
 # STRUKTUR FOLDER PROJECT
 
-active_life_sport_catalog/
+
 ├── lib/
 │   ├── main.dart                 # Entry point dan konfigurasi sistem (orientasi, status bar)
 │   ├── app.dart                  # Setup MultiProvider dan MaterialApp
