@@ -3,7 +3,7 @@ Aplikasi Katalog Produk Sport (Active Life)
 
 # IDENTITAS MAHASISWA
 *Nama* : Zakqi Ramadhan
-*NIM* :230102129
+*NIM* : 230102129
 *Kelas* : IF23B 
 *Mata Kuliah* : Pemrograman Perangkat Bergerak
 *Dosen Pengampu* :  1. Fajar Winata S.Kom., M.T.
