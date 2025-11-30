@@ -1,2 +1,2 @@
-# Tugas-UTS-Pemrograman-Perangkat-Bergerak
-Aplikasi katalog produk sport Active Life
+# TUGAS-UTS-PEMROGRAMAN-PERANGKAT-BERGERAK
+Aplikasi Katalog Produk Sport Active Life
